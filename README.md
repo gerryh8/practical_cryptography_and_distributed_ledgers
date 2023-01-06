@@ -276,3 +276,4 @@ Disclaimer: We're still organizing everything. Some links might be in an incorre
 - https://www.youtube.com/watch?v=cizLhxSKrAc&t=215s
 - https://www.youtube.com/watch?v=Ehm-OYBmlPM
 - https://github.com/Mikerah/awesome-foundations-of-DeFi
+- https://github.com/PatrickAlphaC/scaffold-eth
